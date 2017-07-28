@@ -1312,7 +1312,7 @@
 	html {
 		background-color: #313a3d;
 		background-attachment: fixed,						fixed;
-		background-image: src("http://www.resplashed.com/img/1f714603617f.jpg");
+		background-image: url("images/bcg1.jpg"), url("../../images/bcg1.jpg");
 		background-position: top left,					center center;
 		background-repeat: repeat,						none;
 		background-size: auto,						cover;
